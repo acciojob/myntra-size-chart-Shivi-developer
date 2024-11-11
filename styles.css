@@ -1,2 +1,15 @@
-
 /* Your CSS Code here. */
+#row-1{
+	background-color: red;
+	color: white;
+}
+#row-2{
+	background-color: pink;
+	color: white;
+}
+#row-3{
+	background-color: gray;
+}
+#row-4{
+	background-color: gray;
+}
